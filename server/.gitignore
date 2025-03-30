@@ -1,0 +1,57 @@
+# Python-specific
+*.py[cod]
+*$py.class
+__pycache__/
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+myenv/
+
+# Django-specific
+db.sqlite3
+*.sqlite3
+/media/
+staticfiles/
+static/
+local_settings.py
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Migrations (optional)
+**/migrations/*.py
+!**/migrations/__init__.py
+
+# Node.js-specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Sensitive files
+/firebase-credentials.json
