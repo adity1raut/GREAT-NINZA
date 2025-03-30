@@ -2,8 +2,6 @@
 
 ## This is a 24-hour offline hackathon
 
-### First Round: PPT Selection
-
 ## Project Overview
 
 I am creating an Admission Assistant Chatbot that provides college-related data and much more. This intelligent assistant helps prospective students find information about colleges, courses, admission processes, and other educational resources.
